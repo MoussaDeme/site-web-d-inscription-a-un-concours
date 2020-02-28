@@ -1,0 +1,45 @@
+/*#defilement
+{
+	margin: 0 auto;
+	width: 870px;
+	height: 350px;
+	border: 3px solid #333;
+	background-image: url("photos/iut.jpg"); 
+
+	 webkit-animation-name: diapo1;
+	 webkit-animation-duration: 9s;
+	 webkit-animation-timing-function: linear;
+	 webkit-animation-iteration-count: infinitive;
+	 webkit-animation-direction: normal;
+
+	 moz-animation-name: diapo1;
+	 moz-animation-duration: 9s;
+	 moz-animation-timing-function: linear;
+	 moz-animation-iteration-count: infinitive;
+	 moz-animation-direction: normal;
+
+	 animation-name: diapo1;
+	 animation-duration: 9s;
+	 animation-timing-function: linear;
+	 animation-iteration-count: infinitive;
+	 animation-direction: normal;
+
+}
+@-webkit-keyframes diapo1{
+	0%{background-image: url("photos/iut.jpg");}
+	33%{background-image: url("photos/img1.jpg");}
+	66%{background-image: url("photos/recteur.jpg");}
+	99%{background-image: url("photos/isfar.jpg");}
+}
+@-moz-keyframes diapo1{
+	0%{background-image: url("photos/iut.jpg");}
+	33%{background-image: url("photos/img1.jpg");}
+	66%{background-image: url("photos/recteur.jpg");}
+	99%{background-image: url("photos/isfar.jpg");}
+}
+@-keyframes diapo1{
+	0%{background-image: url("photos/iut.jpg");}
+	33%{background-image: url("photos/img1.jpg");}
+	66%{background-image: url("photos/recteur.jpg");}
+	99%{background-image: url("photos/isfar.jpg");}
+}*/

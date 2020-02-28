@@ -1,0 +1,17 @@
+#ins{
+    float: right;
+}
+div.footer
+{
+    background-color: hsl(60, 10%, 10%);
+  line-height: 1.7;
+  max-width: 32em;
+  padding: 5% calc(50% - 16em) 35%;
+  position: relative;
+  z-index: 2;
+  font-size: 35px;
+}
+.header
+{
+    background-image: url('photos/BANIERE_SITE1.jpg');
+}

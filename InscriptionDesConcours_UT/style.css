@@ -1,0 +1,218 @@
+.titre
+{
+	text-align: center;
+}
+.header
+{
+    background-image: url('photos/BANIERE_SITE1.jpg');
+}
+
+
+#ins{
+	float: right;
+	width: 200px;
+	height: 200px;
+}
+
+.im
+{
+	float: right;
+}
+
+.desc {
+    border-left: 6px solid red;
+    background-color: lightgrey;
+}
+.header
+{
+	background-color: lightyellow;
+
+}
+#logo{
+	color: rgb(82, 82, 150);
+	position: absolute;
+	margin: 0; padding: 0;
+	font: bolder 4.1em 'Trebuchet MS', Arial, Sans-serif;
+	letter-spacing: -2px;
+	text-transform: lowercase;
+	top: 0; left: 5px;
+}
+.green {	color: #9EC630; }
+.gray  {	color: #BFBFBF; }
+.idc  {	color: #9EC630; font-size: 60px; }
+#slogan
+{
+	position: absolute;	 
+	top:37px; left: 95px;
+	color: #666666;
+	text-indent: 0px;
+	font: bold 11px Tahoma, 'trebuchet MS', Sans-serif; 
+	text-transform: none;
+}
+body
+{
+	background-color: rgb(240,241,247);
+	
+}	
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+#gor
+{
+    float: left;
+     width: 200px;
+    border: 1px solid #0F0F0F;
+    background-color: rgb(99, 101, 107);
+}
+#go
+{
+    float: right;
+    width: 210px;   
+    border: 1px solid #0E0D0D;
+	/*background-color: rgba(29, 94, 185, 0.1)*/
+	background-color:  rgb(99, 101, 107);
+}
+.gris 
+{
+    color: rgba(143, 123, 123, 0.83)
+}
+#cod 
+{
+    font-size: 5px;
+}
+
+
+/*-------------------------debut autre methode--------------------------------------*/
+/*#defilement
+{
+	margin: 0 auto;
+	width: 870px;
+	height: 350px;
+	border: 3px solid #333;
+	background-image: url("photos/iut.jpg"); 
+
+	 webkit-animation-name: diapo1;
+	 webkit-animation-duration: 9s;
+	 webkit-animation-timing-function: linear;
+	 webkit-animation-iteration-count: infinitive;
+	 webkit-animation-direction: normal;
+
+	 moz-animation-name: diapo1;
+	 moz-animation-duration: 9s;
+	 moz-animation-timing-function: linear;
+	 moz-animation-iteration-count: infinitive;
+	 moz-animation-direction: normal;
+
+	 animation-name: diapo1;
+	 animation-duration: 9s;
+	 animation-timing-function: linear;
+	 animation-iteration-count: infinitive;
+	 animation-direction: normal;
+
+}
+@-webkit-keyframes diapo1{
+	0%{background-image: url("photos/iut.jpg");}
+	33%{background-image: url("photos/ut.jpg");}
+	66%{background-image: url("photos/hotel.jpg");}
+	99%{background-image: url("photos/isfar.jpg");}
+}
+@-moz-keyframes diapo1{
+	0%{background-image: url("photos/iut.jpg");}
+	33%{background-image: url("photos/ut.jpg");}
+	66%{background-image: url("photos/hotel.jpg");}
+	99%{background-image: url("photos/isfar.jpg");}
+}
+@keyframes diapo1{
+	0%{background-image: url("photos/iut.jpg");}
+	33%{background-image: url("photos/ut.jpg");}
+	66%{background-image: url("photos/hotel.jpg");}
+	99%{background-image: url("photos/isfar.jpg");}
+}*/
+/*-------------------------------fin----------------------------------------------- */
+.fo
+{
+	background-color : black;
+}
+.tof{
+	   align : center;
+}
+.rem
+{
+	background-color: black;
+}
+.inf
+{
+	color : blue;
+	float : center;
+}
+.parag
+{
+
+	border-left: 6px solid red;
+	background-color: lightgrey;
+	font-size: 30px;
+}
+.sap
+{
+	
+	text-align: center;
+	color: black;
+	background-color: blue;
+	font-size: 40px;
+}
+.parag1
+{
+
+	border-left: 6px solid red;
+	background-color: lightgrey;
+	font-size: 20px;
+}
+.sap1
+{
+	
+	text-align: center;
+	color: black;
+	background-color: blue;
+	font-size: 40px;
+}
+.parag2
+{
+
+	border-left: 6px solid red;
+	background-color: lightgrey;
+	font-size: 20px;
+}
+.sap2
+{
+	
+	text-align: center;
+	color: black;
+	background-color: blue;
+	font-size: 40px;
+}
+.compte
+{
+	text-align: center;
+	color : blue;
+	font-size: 30px;
+}
+.bouton
+{
+	float: right;
+}
